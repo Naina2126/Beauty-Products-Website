@@ -1,6 +1,6 @@
 body
 {
-    background-image:url(pngtree-organic.jpg);
+    background-image:url("Product-images/pngtree-organic.jpg");
     background-size: 100% 800px;
     padding:0;
     margin:0;
@@ -60,7 +60,7 @@ a
     height: 407px;
     box-sizing: border-box;
     float:right;
-    background-image: url(nn.png);
+    background-image: url("Product-images/black-background.png");
 }
 #logo
 {
@@ -124,7 +124,7 @@ fieldset
     height: 407px;
     box-sizing: border-box;
     float:right;
-    background-image: url(nn.png);
+    background-image: url("Product-images/black-background.png");
     padding:40px;
     
 }
@@ -251,7 +251,7 @@ legend
     border-color:#ccc;
     font-size:18px;
     padding:10px;
-    background-image: url(search.png);
+    background-image: url("Product-images/search.png");
     background-size:40px 40px;
     background-repeat: no-repeat;
     background-position: right;
